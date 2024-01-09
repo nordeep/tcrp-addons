@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.virtio",
-  "url": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/nordeep/tcrp-addons/main/virtio/rpext-index.json",
   "info": {
     "name": "VirtIO",
     "description": "Adds VirtIO support for fast network/PCI/SCSI/network/console paravirtualization under QEmu (Proxmox, VirtualBox, virsh, and similar)",
@@ -45,6 +45,7 @@
     "ds3622xsp_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwellnk.json",
     "ds1019p_42962"  : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/apollolake.json",
     "ds923p_42962"   : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json",
-    "ds723p_42962"   : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json"
+    "ds723p_42962"   : "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json",
+    "rs4021xsp_69057": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwellnk.json"
   }
 }
